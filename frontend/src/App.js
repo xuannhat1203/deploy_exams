@@ -22,7 +22,7 @@ function App() {
             </div>
             <div className="sb__kv">
               <div className="sb__k">GitHub</div>
-              <div className="sb__v">https://github.com/xuannhat1203?tab=repositories</div>
+              <div className="sb__v">https://github.com/xuannhat1203</div>
             </div>
             <div className="sb__kv">
               <div className="sb__k">Khu vực</div>
